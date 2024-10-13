@@ -1,10 +1,10 @@
-### Welcome to My Corner of Development Excellence
+## Welcome to My Corner of Development Excellence
 
 Hi, I’m Alessandro Rapiti, a Senior Solution Architect with over 15 years of experience in the world of programming, specializing in Microsoft technologies. Throughout my career, I’ve had the privilege of working on a wide range of projects that span across desktop, mobile, and cloud-based solutions. My passion lies in exploring and mastering tools that empower developers, with a strong focus on **C#**, **Azure**, **Blazor**, **.NET MAUI**, and **TypeScript**.
 
 ---
 
-### A Journey Through Microsoft Technologies
+## A Journey Through Microsoft Technologies
 
 Over the past decade and a half, I've honed my skills to become proficient in the Microsoft ecosystem. My goal is to share what I’ve learned to help other developers build better, faster, and more scalable solutions. On this blog, I’ll dive deep into:
 
@@ -16,18 +16,18 @@ Over the past decade and a half, I've honed my skills to become proficient in th
 
 ---
 
-### Sharing My Expertise
+## Sharing My Expertise
 
 As a Senior Developer, I’ve faced the common (and uncommon) challenges that come with building and scaling software systems. I believe in sharing knowledge and helping others navigate these challenges. This site will serve as a platform where I’ll break down complex concepts into digestible, actionable content. My aim is to provide valuable insights, tutorials, and tips to help you excel in your development journey, whether you're just starting out or looking to refine your skills.
 
 ---
 
-### What You Can Expect
+## What You Can Expect
 
 Through blog posts, video tutorials, and code examples, I’ll be covering a wide range of topics related to programming, best practices, and new technologies in the Microsoft space. If you're passionate about software development and always eager to learn, you're in the right place!
 
 ---
 
-### Stay Connected
+## Stay Connected
 
 Feel free to connect with me on [LinkedIn, Twitter, GitHub] (include relevant links), or drop me a message via the contact form. Let’s embark on this learning journey together, and make great software!
